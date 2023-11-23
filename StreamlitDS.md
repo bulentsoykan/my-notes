@@ -24,7 +24,7 @@ tags: [streamlit, data science]
     - [Streamlit Text Input](#streamlit-text-input)
   - [Integrating external ML libraries](#integrating-external-ml-libraries)
     - [Caching with Streamlit](#caching-with-streamlit)
-    - [Hugging Face](#hugging-face)
+  - [Deploying with Streamlit Community Cloud](#deploying-with-streamlit-community-cloud)
 
 ## Introduction
 
@@ -133,6 +133,16 @@ model = get_model()
 ```
 
 
-### Hugging Face
+## Deploying with Streamlit Community Cloud
+
+Before deploying we need requirements.txt file. To create this file, we need to run the following command in the terminal:
+
+```bash
+pip install pipreqs
+pipreqs .
+```
+
+This will create a requirements.txt file in the current directory. The requirements.txt file contains all the packages that are required to run the app. 
+
 
 
