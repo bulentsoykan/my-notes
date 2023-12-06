@@ -1,5 +1,5 @@
 ---
-title: "Detailed Lecture Notes on Error Analysis and Machine Learning System Development"
+title: "Lecture Notes on Error Analysis and Machine Learning System Development"
 date: 2023-12-03
 author: "Generated Lecture Notes"
 description: "Comprehensive notes covering error analysis in machine learning, strategies for handling incorrectly labeled data, and best practices for building initial machine learning systems."
@@ -25,7 +25,7 @@ tags:
   - System Development
 ---
 
-## 📘 Updated and Detailed Lecture Notes on Error Analysis in Machine Learning, Handling Incorrect Labels, and Building Initial Machine Learning Systems
+## 📘 Lecture Notes on Error Analysis in Machine Learning, Handling Incorrect Labels, and Building Initial Machine Learning Systems
 
 ### **Topic:** 
 - 📊 Comprehensive understanding of **Error Analysis in Machine Learning**
